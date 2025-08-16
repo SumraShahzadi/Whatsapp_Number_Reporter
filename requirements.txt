@@ -1,0 +1,15 @@
+# WhatsApp Number Reporter Simulator - Dependencies
+# This tool uses only built-in Python modules, so no external dependencies are required
+
+# Built-in modules used:
+# - time
+# - random  
+# - json
+# - datetime
+# - argparse
+# - sys
+# - os
+# - typing
+
+# No external packages required
+# The tool is designed to work with Python 3.7+ without additional dependencies
